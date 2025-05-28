@@ -1,5 +1,12 @@
 # Projeto: Previsão de Custos de Seguro Saúde
 
+Autores:
+  João Pedro Costa Machado
+  Fernando Lossani Filho
+  Igor Januario da Encarnação
+  Gustavo Hiroshi Yoshio
+  Ulisses Pereira Gomes
+
 Este projeto utiliza dados de seguros de saúde para treinar um modelo de machine learning capaz de prever o custo do plano de saúde de um paciente. O modelo é disponibilizado via uma API desenvolvida com FastAPI e pode ser executado em um container Docker.
 
 ## 1. Modelagem e Pipeline
